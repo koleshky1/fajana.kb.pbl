@@ -57,6 +57,9 @@
 ### Errors shown while trying to install the three above
 ![Errpg1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/6ef71e60-f96b-444b-bc89-98c1f42e2101)
 ![Errpg2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/c4445919-3deb-40fe-8a97-a384c3dda576)
-
+### Errors rectification by updating Ubuntu using apt-get update command
+![error correction](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/783e2f29-a09c-4a73-b64e-a376fb186444)
+### Installing the three packages
+![Installing the three PHP packages](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1f1291df-aed1-4b93-8833-305fc05b42b0)
 
 
