@@ -25,5 +25,5 @@
  ![Ip retrieval](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/0d0bb315-171b-4512-93cb-1c79800865bc)
  ### Pasting IP in a Web browser and check the fuctinality.
 ![Apache homepage](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/23c8ccf3-a032-4636-b4af-a9ff32259f31)
-  # Step 3
+ # Step 3
  ## Install MySQL Database
