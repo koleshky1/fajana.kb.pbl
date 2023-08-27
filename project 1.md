@@ -79,6 +79,8 @@
 ### Apache Reload 
 ### Create Index.html file in projectlamp
 ![Hello lamp](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/ed85ec6f-0709-4fac-8a3e-f365c16c1e31)
+#### Accessing through th public DNS
+![public DNS](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/06c3e69e-2c8c-4d8d-859e-4b571fa4ecc9)
 
 
 
