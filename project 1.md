@@ -78,6 +78,7 @@
 ![Syntax error Rem](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/b7e9500e-6231-4896-89ee-22a01bef1aab)
 ### Apache Reload 
 ### Create Index.html file in projectlamp
+![Hello lamp](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/ed85ec6f-0709-4fac-8a3e-f365c16c1e31)
 
 
 
