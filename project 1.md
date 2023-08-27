@@ -61,5 +61,25 @@
 ![error correction](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/783e2f29-a09c-4a73-b64e-a376fb186444)
 ### Installing the three packages
 ![Installing the three PHP packages](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1f1291df-aed1-4b93-8833-305fc05b42b0)
+### PHP version confirmation
+![PHP version](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/215b4abf-ebea-438b-a25a-261d3fee86c6)
+# Step 5
+## CREATING A VIRTUAL HOST FOR YOUR WEBSITE USING APACHE
+### Create directory Projectlamp
+![steps to creating file](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/9ded239e-903d-4e7e-a547-261aab04094e)
+![save modified file](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/490f0ce8-1b2f-41ea-b78d-b97cfe232e3c)
+### To see if file is available
+![file availabilty](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/39f98de6-4939-401f-9a6c-259be665b38b)
+### To enable the new Virtual host
+![To enable the new VH](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8d3dc111-cfb5-4bc7-bb99-10b9c7ee1590)
+### To disable the Apache default website
+![disable default site](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/2f46f1ee-6dad-4509-b85d-a72e181abd30)
+### Removal of Syntax errors in Configuration
+![Syntax error Rem](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/b7e9500e-6231-4896-89ee-22a01bef1aab)
+### Apache Reload 
+### Create Index.html file in projectlamp
+
+
+
 
 
