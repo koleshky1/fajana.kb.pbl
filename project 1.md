@@ -1,4 +1,5 @@
 # WEB STACK IMPLEMENTATION (LAMP STACK) IN AWS
+# Step 1
 ##  Connection to AWS successful
 ![when connecting to Aws platform](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/81eb29fa-92bb-45d3-92d9-a2604e307b59)
 ## Test of hostname
@@ -7,6 +8,7 @@
 ![update](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8a56fce6-7a84-454e-af0c-c5f2e3da0255)
 ## Upgrading the List
 ![upgrade](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/7f651bed-428f-4bd4-8f2f-19f2c78a90b1)
+# Step 2
 ## INSTALLING APACHE AND UPDATING THE FIREWALL
 ![installing apachea](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/c3d1c1a9-b668-45c7-acb8-11e4c845d8c5)
 ![installing apacheb](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/dbe25977-a544-4ba7-86c1-e04d627a6f1e)
@@ -20,6 +22,7 @@
  ### Testing the Apache Web Server for response to Internet requests
  ### Opening Google web browser and  attempting to use the public url to display Apache homepage
  ### First retreive the IP using the Curl command
+ # Step 3
  
 ![Ip retrieval](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/0d0bb315-171b-4512-93cb-1c79800865bc)
  ### Pasting IP in a Web browser and check the fuctinality.
