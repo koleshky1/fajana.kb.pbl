@@ -36,5 +36,13 @@
 
  ## To log in to the MySQL console
  ![MySQLconsole](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/ad0946da-290c-4f7c-a14e-de2e904c89ee)
- 
+ ## To exit 
+ ![exit MySQL](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/40d141ab-a987-42ae-b214-88da3c0a3ba9)
+ ## My SQL security validation steps.
+ ![My SQL query](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/c7f67e53-f2c2-48e4-8b00-fcec93140478)
+ ## Password validation
+ ![Validation of the password](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/0d951c8b-961a-4bda-8a14-5bc6fea43dcc)
+
+![MySQL Validation success](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/4d115cec-f291-48f3-a790-5dc4835472d4)
+
  
