@@ -31,5 +31,10 @@
 ![Apache homepage](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/23c8ccf3-a032-4636-b4af-a9ff32259f31)
  # Step 3
  ## Install MySQL Database
- ### using the apt command to get to get and install the software
+ ### using the apt command to get to get and install the MySQl software
+ ![Installation MySQl](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/507fbabe-e439-4a3a-8996-1993370a6a34)
+
+ ## To log in to the MySQL console
+ ![MySQLconsole](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/ad0946da-290c-4f7c-a14e-de2e904c89ee)
+ 
  
