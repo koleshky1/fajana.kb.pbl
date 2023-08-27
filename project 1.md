@@ -48,6 +48,15 @@
 ![to test Login](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/b9a897b2-9134-4488-a7d0-a87c0493d746)
 ## Exiting MySQL
 ![image](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/760786ae-ca68-4eac-a449-399a079b7084)
+# Step 4
+## To Install PHP
+### Three installations will be done together:
+#### 1. Actual PHP installation.
+#### 2. PHP-MySQL code to allow PHP communicate with MySQL.
+#### 3. A library that allows Apache handle PHP files.
+### Errors shown while trying to install the three above
+![Errpg1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/6ef71e60-f96b-444b-bc89-98c1f42e2101)
+![Errpg2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/c4445919-3deb-40fe-8a97-a384c3dda576)
 
 
 
