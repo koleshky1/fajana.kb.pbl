@@ -44,5 +44,10 @@
  ![Validation of the password](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/0d951c8b-961a-4bda-8a14-5bc6fea43dcc)
 
 ![MySQL Validation success](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/4d115cec-f291-48f3-a790-5dc4835472d4)
+## To test if login to the console possible
+![to test Login](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/b9a897b2-9134-4488-a7d0-a87c0493d746)
+## Exiting MySQL
+![image](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/760786ae-ca68-4eac-a449-399a079b7084)
 
- 
+
+
