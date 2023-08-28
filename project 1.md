@@ -90,6 +90,11 @@ Changing the website display hierarchy index.php as the first website.
 ## To create a PHP test file
 ![php test file command](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/fc3ffca4-e07f-4c40-96e9-85b0f64b4f34)
 ![php test file](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/4d788be9-b3f0-45a2-8737-a972bf33308d)
+## PHP page display
+![new ip address due to instance stopped](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/c37c115b-2f40-47a8-925e-014004f996af)
+![New DNS](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f523911d-eab6-4e4d-8abd-a7e10695926c)
+## PHP page removal
+![PHP page removal](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/984729d3-9146-4f65-b5de-0dce85fb2c6a)
 
 
 
