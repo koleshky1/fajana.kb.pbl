@@ -95,6 +95,7 @@ Changing the website display hierarchy index.php as the first website.
 ![New DNS](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f523911d-eab6-4e4d-8abd-a7e10695926c)
 ## PHP page removal
 ![PHP page removal](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/984729d3-9146-4f65-b5de-0dce85fb2c6a)
+![PHP last page display](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/4f9df85b-a872-492e-9dde-1c6b80492d89)
 
 
 
