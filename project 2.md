@@ -5,6 +5,7 @@
 ### and others
 ## Connect Git to AWS by applying the key pair
 ![AWS to Git connect](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/da4cfd77-9b1f-4b66-9f65-23c16852bf52)
+
 # Step 1 
 ## STEP 1 – INSTALLING THE NGINX WEB SERVER
 ### First update the Service package with the Sudo Apt command
@@ -47,12 +48,26 @@
 #### 2. PHP-MySQL that allows PHP to communicate with MySQL
 ![Php installation 1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/2f3021bc-a461-4035-89db-77f86bc6f060)
 ![Php installation 2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/420aa185-de0f-4cd4-bd02-9dec7abaf068)
+
 # Step 4
 ## CONFIGURING NGINX TO USE PHP PROCESSOR
-### Create the root web directory for your_domain
-### Assign ownership 
+### Create the root web directory for your_domain and assign ownership 
+![Create directory](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/c9171073-8a27-4419-825b-de57c4734d53)
 ### Open a new configuration file in Nginx’s sites-available directory
 ![open config](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/9b2c107b-ebd2-4bb8-a040-142ba5dbd69a)
+### Activate your configuration by linking to the config file from Nginx’s sites
+### Test the configuration
+![test config](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/7450e923-1223-4a18-b1df-a4eefbf93ea5)
+## Disable the default Nginx host and reload Nginx to apply the change
+![Disable and reload](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/6b56c674-1532-4edb-b4b2-bf49bfad5365)
+## Create an Index.html file to test the Server block works and go to the browser to open the URL
+![create file](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/be64d776-fbf3-44a3-92fd-eec8bb5faf39)
+
+
+
+
+
+
 
 
 
