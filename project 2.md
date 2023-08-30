@@ -22,4 +22,5 @@
 ### Testing the Nginx functionality on the Google browser using the public IP
 ![Testing on browser](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/a7a4d45f-5c87-46ce-ae32-63f20935336c)
 ### Public IP retrieval
-![image](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/7738500c-5dea-4347-b1f5-64b98c5b66d6)
+![retrieval](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/dcf4fd5f-efb3-40a9-bd73-b8b62331d985)
+
