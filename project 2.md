@@ -24,3 +24,11 @@
 ### Public IP retrieval
 ![retrieval](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/dcf4fd5f-efb3-40a9-bd73-b8b62331d985)
 
+# Step 2 MySQL Server installation
+### MySQL is a relational database where we store and retrieve the data in the LEMP stack solution.
+### The Sudo-apt install command is used to upgrade to root user to be able to install the MySQL database
+##Installation of Database
+![DB1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1f9b3cd6-6928-46e4-97d5-aa2d2800f271)
+![DB2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/bce11e47-bdde-4a0e-af84-ba1a4c91f16e)
+
+
