@@ -62,6 +62,9 @@
 ![Disable and reload](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/6b56c674-1532-4edb-b4b2-bf49bfad5365)
 ## Create an Index.html file to test the Server block works and go to the browser to open the URL
 ![create file](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/be64d776-fbf3-44a3-92fd-eec8bb5faf39)
+![echo hello](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f1052944-1d0d-4a25-953d-6bcc7ea376cb)
+##
+
 
 
 
