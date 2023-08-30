@@ -37,6 +37,8 @@
 ## Run the interactive Secure installation and validate the password
 ![Secure instalation access](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/d2c744c5-069b-4adc-8046-3ffbdb8de504)
 ![Validation Success](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f24da398-bc1b-4328-8b1b-fe0c550284b9)
+## To Relogin to MySQL console
+![Relogin](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/7b2d03b5-e2d0-4c8f-9d42-e5cf36d9c119)
 
 
 
