@@ -40,6 +40,12 @@
 ## To Relogin to MySQL console
 ![Relogin](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/7b2d03b5-e2d0-4c8f-9d42-e5cf36d9c119)
 
+# STEP 3 
+## INSTALLING PHP
+### Two packages will be installed simultaneously:
+#### 1. PhP fpm that tells Nginx to pass the request to the Php for processing
+#### 2. PHP-MySQL that allows PHP to communicate with MySQL
+
 
 
 
