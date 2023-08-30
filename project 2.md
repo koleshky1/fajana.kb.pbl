@@ -49,7 +49,12 @@
 ![Php installation 2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/420aa185-de0f-4cd4-bd02-9dec7abaf068)
 # Step 4
 ## CONFIGURING NGINX TO USE PHP PROCESSOR
-### Create a projectLEMP file
+### Create the root web directory for your_domain
+### Assign ownership 
+### Open a new configuration file in Nginx’s sites-available directory
+![open config](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/9b2c107b-ebd2-4bb8-a040-142ba5dbd69a)
+
+
 
 
 
