@@ -27,8 +27,11 @@
 # Step 2 MySQL Server installation
 ### MySQL is a relational database where we store and retrieve the data in the LEMP stack solution.
 ### The Sudo-apt install command is used to upgrade to root user to be able to install the MySQL database
-##Installation of Database
+## Installation of Database
 ![DB1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1f9b3cd6-6928-46e4-97d5-aa2d2800f271)
 ![DB2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/bce11e47-bdde-4a0e-af84-ba1a4c91f16e)
+## Login to the MySQL console using the Sudo MySQL command
+![mysql console](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f8846486-4881-4692-bdab-e8b8dcb07b5d)
+
 
 
