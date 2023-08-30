@@ -47,7 +47,9 @@
 #### 2. PHP-MySQL that allows PHP to communicate with MySQL
 ![Php installation 1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/2f3021bc-a461-4035-89db-77f86bc6f060)
 ![Php installation 2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/420aa185-de0f-4cd4-bd02-9dec7abaf068)
-
+# Step 4
+## CONFIGURING NGINX TO USE PHP PROCESSOR
+### Create a projectLEMP file
 
 
 
