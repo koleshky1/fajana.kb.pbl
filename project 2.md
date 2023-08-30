@@ -1,4 +1,4 @@
-# Step O
+# Step 0
 ## Spin up a new EC2 instance with the following details:
 ### Project 2
 ### Unbuntu 22.0
