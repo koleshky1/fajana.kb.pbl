@@ -19,3 +19,5 @@
 ### Accessing the server locally from the Ubuntu shell using the Curl command
 ![local host](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/5efe0810-daaf-4f84-8257-28c91bc9a4c1)
 ![local host1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/af2518c5-729c-4038-855f-0a56743b7714)
+### Testing the Nginx functionality on the Google browser using the public IP
+![Testing on browser](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/a7a4d45f-5c87-46ce-ae32-63f20935336c)
