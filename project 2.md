@@ -14,3 +14,4 @@
 ![Nginx 2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/3e204f07-266f-4253-acdc-7532e76935f8)
 ### Verify Nginx is active using the SystemCtl command
 ![Nginx active](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/dae8f93e-9694-450f-81fe-dd7bba33517a)
+### Open TCP port 80 to allow Web access
