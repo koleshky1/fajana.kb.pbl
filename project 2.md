@@ -70,6 +70,21 @@
 ### Create a PHP test file using the Nano text editor
 ![php test page Ip](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/0f4756bf-11de-49d6-a2f7-da7423bdbc45)
 ![php test page DNS](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8c47c32f-b3cd-45bf-aeba-b2d93c89ed33)
+## To Remove page
+![remove test page](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/80df937b-7a44-41d7-886d-aed1edad6990)
+# STEP 6 
+## RETRIEVING DATA FROM MYSQL DATABASE WITH PHP 
+### Connect to MySQL console
+### To create a new Database
+### Create User for Example database and exit
+### Check to see if you can login into the database with the new password
+![creating new database](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/02917350-5973-4f83-9b31-85a0104df57b)
+### Show Database
+![Show database](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/a815cdee-89aa-45db-84df-386b6e07d8be)
+## Create a todo_list test table
+## Insert a few rows of content in the test table
+## Display data output
+![To do items](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/63cde55d-bb3c-466a-884a-86d64e2f1ba2)
 
 
 
