@@ -16,3 +16,6 @@
 ![Nginx active](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/dae8f93e-9694-450f-81fe-dd7bba33517a)
 ### Open TCP port 80 to allow Web access
 ![allow HTTp access](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/a24e365f-def3-41b5-809f-3b8961602eac)
+### Accessing the server locally from the Ubuntu shell using the Curl command
+![local host](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/5efe0810-daaf-4f84-8257-28c91bc9a4c1)
+
