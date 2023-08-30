@@ -85,6 +85,13 @@
 ## Insert a few rows of content in the test table
 ## Display data output
 ![To do items](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/63cde55d-bb3c-466a-884a-86d64e2f1ba2)
+## Create a PHP script that will connect to MySQL
+![nano php to MySQl command](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/9147f88a-9e0e-435e-a411-22798bafce48)
+![nano php to MySQl connection](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/a5d83680-be5c-45d1-ab6f-e581b6c946b8)
+## Access on Web browser
+![to do list DNS output](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/7b907241-9f13-4c8f-9ca7-568eae632c97)
+![to do list ip output](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/299385fc-6708-4d2b-8b4d-b067f4d2fda2)
+
 
 
 
