@@ -63,7 +63,7 @@
 ## Create an Index.html file to test the Server block works and go to the browser to open the URL
 ![create file](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/be64d776-fbf3-44a3-92fd-eec8bb5faf39)
 ![echo hello](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f1052944-1d0d-4a25-953d-6bcc7ea376cb)
-##
+![DNS name](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8d454bd9-4308-4cf4-beb9-f7946427e218)
 
 
 
