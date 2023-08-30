@@ -45,6 +45,8 @@
 ### Two packages will be installed simultaneously:
 #### 1. PhP fpm that tells Nginx to pass the request to the Php for processing
 #### 2. PHP-MySQL that allows PHP to communicate with MySQL
+![Php installation 1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/2f3021bc-a461-4035-89db-77f86bc6f060)
+![Php installation 2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/420aa185-de0f-4cd4-bd02-9dec7abaf068)
 
 
 
