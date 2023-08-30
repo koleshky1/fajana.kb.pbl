@@ -9,3 +9,7 @@
 ## STEP 1 – INSTALLING THE NGINX WEB SERVER
 ### First update Service package with the Sudo Apt command
 ![sudo apt update](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/b93c7a14-8449-4da2-968e-a1c06fac1af2)
+### Install the Nginx server
+![Nginx 1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/3844dbf9-574b-4b5d-b39b-0cfc461bacd4)
+![Nginx 2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/3e204f07-266f-4253-acdc-7532e76935f8)
+
