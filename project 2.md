@@ -32,6 +32,13 @@
 ![DB2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/bce11e47-bdde-4a0e-af84-ba1a4c91f16e)
 ## Login to the MySQL console using the Sudo MySQL command
 ![mysql console](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f8846486-4881-4692-bdab-e8b8dcb07b5d)
+## To Secure MySQL Server using the Script that comes with the package and Exit the MySQL database
+![secure script and exit](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/fc73d6ce-6e48-4cc2-8bf7-ee79db20298f)
+## Run the interactive Secure installation and validate the password
+![Secure instalation access](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/d2c744c5-069b-4adc-8046-3ffbdb8de504)
+![Validation Success](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f24da398-bc1b-4328-8b1b-fe0c550284b9)
+
+
 
 
 
