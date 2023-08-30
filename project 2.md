@@ -18,4 +18,4 @@
 ![allow HTTp access](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/a24e365f-def3-41b5-809f-3b8961602eac)
 ### Accessing the server locally from the Ubuntu shell using the Curl command
 ![local host](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/5efe0810-daaf-4f84-8257-28c91bc9a4c1)
-
+![local host1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/af2518c5-729c-4038-855f-0a56743b7714)
