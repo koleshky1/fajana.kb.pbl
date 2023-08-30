@@ -65,9 +65,11 @@
 ![echo hello](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f1052944-1d0d-4a25-953d-6bcc7ea376cb)
 ![DNS name](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8d454bd9-4308-4cf4-beb9-f7946427e218)
 
-
-
-
+# Step 5
+## TESTING PHP WITH NGINX
+### Create a PHP test file using the Nano text editor
+![php test page Ip](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/0f4756bf-11de-49d6-a2f7-da7423bdbc45)
+![php test page DNS](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8c47c32f-b3cd-45bf-aeba-b2d93c89ed33)
 
 
 
