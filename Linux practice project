@@ -1,2 +1,5 @@
 # Linux Projects
-## Introductipon to Linux Commands
+## A repo that documents  my practice projects in Linux.
+## PART 1: File Manipulation
+1. Sudo -l: list user's privileges or check a specific command
+
