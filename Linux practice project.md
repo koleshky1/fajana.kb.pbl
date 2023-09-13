@@ -19,4 +19,11 @@
 ![cp](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/a8b5126b-96f4-462a-938d-fb4ed6ae6eff)
 - copy file from parent directory into child directory.
 ![cp2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/b1882473-869b-49c0-a2b8-abcc88a0e24d)
-7. 
+7. mv command: move and rename files and directories.
+- move files into a directory
+![mv1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/981d851d-e286-4a19-af7a-380480195a24)
+- rename file in a directory.
+![rename](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/62a90a16-cad9-4345-924f-9b6ef42f4007)
+8. mkdir command: creates one or multiple directories and sets permissions for them
+
+
