@@ -24,6 +24,7 @@
 ![mv1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/981d851d-e286-4a19-af7a-380480195a24)
 - rename file in a directory.
 ![rename](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/62a90a16-cad9-4345-924f-9b6ef42f4007)
-8. mkdir command: creates one or multiple directories and sets permissions for them
-
+8. mkdir command: creates one or multiple directories and sets permissions for them:
+- create a directory
+![mkdir1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/b08eb39b-b273-436f-b030-d489a47f80a2)
 
