@@ -44,7 +44,28 @@
 - installation
 ![locate installation](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/e648c064-ac93-49f9-9810-7e3c41848265)
 - locating file
-![locate2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/2b5f1324-b85e-474a-a3ea-7a41c8b9ae69)
+![locate2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/2b5f1324-b85e-474a-a3ea-7a41c8b9ae69
+13. find command: search for files within a specific directory and performs subsequent operations.
+![find](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/88164d6f-01c0-4a05-92d9-19ea4240ee9d)
+14. grep command: allows search for a word through all the texts in a specific file.
+![grep](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/d622c331-be2d-4dec-aeb9-18496ed530a3)
+15. df command: reports the system's disk space usage displayed.
+- can display in gigabyte, megabyte and kilobyte.
+![df h](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/76cfce61-9c73-462a-8677-ee4de4ac6b1c)
+![df m](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/47faf4a9-67f2-43ba-8a08-030d3baccfdd)
+16. du command: checks how much space a directory or file takes.
+![du](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/35b254ca-1b38-4f5d-a893-406dc5c41ab8)
+17. head command: displays the first 10 lines of a text.
+![head](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/c2df2196-e39c-47fb-9e4e-eb56b28ee996)
+18. tail command: displays the last 5 lines of a text.
+![tail](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f189fa11-579f-42a8-8244-27991f938e42)
+19.diff command: compares two contents of a file line by line and displays the unmatched part. 
+![diff](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/a46af51e-25aa-4d57-8621-88e3e972fa9c)
+- diff -u displays output without any redundant information.
+![diff u](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/515f5bcf-2e6f-4705-8f03-02c97ccd05b0)
+20. tar command:
+
+
 
 
 
