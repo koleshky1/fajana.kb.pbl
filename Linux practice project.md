@@ -26,6 +26,26 @@
 - rename file in a directory.
 ![rename](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/62a90a16-cad9-4345-924f-9b6ef42f4007)
 8. mkdir command: creates one or multiple directories and sets permissions for them:
-- create a directory
+- Creating  a new directory
 ![mkdir1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/b08eb39b-b273-436f-b030-d489a47f80a2)
+- Creating a child directory in a parent directory.
+![parent to child directory](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/fe0fbba6-be05-4a6c-8232-6848f9f41919)
+9. rmdir command: permanently deletes an empty directory.
+![rm](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/738ac7f3-d33b-489f-aa2d-23e7d3ccc273)
+10. rm command: delete files within a directory.
+![rm file1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/bac3a24b-bf91-4061-bcc8-474bdb06d16a)
+- Prompt before file is deleted.
+![rm prompt](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/15ab8b8d-2a4f-4c66-a15f-ca2fd4e0c66f)
+11. touch command: creates a file.
+![touch](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8685c695-181e-4fbd-8b29-f07ebddabd33).
+12. locate command: finds a file in the database system.
+- error and installation prompt
+![locate error and installation prompt](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/d8989f2a-79b0-4448-a641-2e26d55b1b51)
+- installation
+![locate installation](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/e648c064-ac93-49f9-9810-7e3c41848265)
+- locating file
+![locate2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/2b5f1324-b85e-474a-a3ea-7a41c8b9ae69)
+
+
+
 
