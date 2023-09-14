@@ -67,7 +67,17 @@
 
 
 ## PART 2: File Permissions and Ownership
-21. 
+21. chmod command: modifies a file or directory's read, write and execute permissions.
+![chmod1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/4922be7b-63b6-4d47-830a-89e2610de7ec)
+22. chown command: changes the ownership of a file, directory or symbolic link to a specified username.
+![chown1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/3188ca67-bf21-40e9-a648-4bc2fd238e83)
+![chown 2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/45a06c60-7415-4582-a764-a73bd0a46bdf)
+23. jobs command: This is a process started by the shell. It displays all running processes along with their statuses.
+24. kill command: terminates an unresponsive program manually. To do this, one must know the PID - process identification number.
+![ps ux](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/deb854be-1747-44aa-87bb-52207880bc2e)
+
+
+
 
 
 
