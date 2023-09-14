@@ -44,7 +44,7 @@
 - installation
 ![locate installation](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/e648c064-ac93-49f9-9810-7e3c41848265)
 - locating file
-![locate2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/2b5f1324-b85e-474a-a3ea-7a41c8b9ae69.
+![locate2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/b6cbbe8c-ed98-4f73-bedb-e5e22d0f468d)
 13. find command: search for files within a specific directory and performs subsequent operations.
 ![find](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/88164d6f-01c0-4a05-92d9-19ea4240ee9d)
 14. grep command: allows search for a word through all the texts in a specific file.
