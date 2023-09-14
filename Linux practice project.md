@@ -75,6 +75,30 @@
 23. jobs command: This is a process started by the shell. It displays all running processes along with their statuses.
 24. kill command: terminates an unresponsive program manually. To do this, one must know the PID - process identification number.
 ![ps ux](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/deb854be-1747-44aa-87bb-52207880bc2e)
+25. ping command: checks whether a network or a server is reachable. used for troubleshooting connectivity issues.
+![ping](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/68a6bc5c-0ecd-4e6f-b494-d5a830783fa1)
+26. wget command: lets you download files from the internet. It works in the background without hindering other running processes.
+![wget](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1c66477a-0d48-4ab6-8434-cb77685e9efc)
+27. uname command: prints detailed info about your Linux system and hardware.
+![uname](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/675ce111-f8a2-4d3a-b928-c81e1e9641ec)
+28. top command: displays all the running processes and real-time view of the current system. Also helps to identify and terminate a process that may use too many resources.
+![top](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/6dc5062d-b237-4cd6-b5e3-4d1afeeb0cc8)
+29. history command: lists up to 500 previously executed commands, and allows you to reuse them without re-entering. Only user with sudo privileges can perform it.
+![history](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/909d28e3-428a-43e8-a64d-e855980345ee)
+30. man command: provides manual of any commands or utilities run in the terminal manual.
+![man history](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/27be18f9-7f20-448b-b2b6-088f574efc92)
+![man ls](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/50c62975-402e-4a91-9c04-70dd961b6339)
+31. echo command: displays a line of text or string using the standard output OPTIONS: -n displays output; -e enables interpretation of backlash escapes; \a plays sound alert; \b removes spaces in between the text; \c produces no further output; -E displays the default option and disables the interpretation of backlash escapes.
+![echo](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/23ea2c02-b04c-49c2-9d81-f08a00fa6ff5)
+32. zip, unzip commands: compresses files into ZIP file.
+- zip file
+![zip 1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/743a0f32-f0a6-4339-bf21-2d76c363062e)
+![zip 2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/fe8c3ea2-7887-46f1-9034-2751fe6a28ef)
+![zip 3](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1dddda20-bbf1-48dd-a2ea-22ffd490421d)
+- unzip 
+
+
+
 
 
 
