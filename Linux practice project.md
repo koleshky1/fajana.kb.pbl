@@ -118,6 +118,18 @@
 ![vi 1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f2481ebe-6e87-46ab-a885-e2ccc5cfede9)
 ![vi](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/b9752f94-43ff-460a-b170-a84d14ed349d)
 37. alias, unalias commands: alias allows one to create shortcut with the same functionality as a command, file name or text, while unalias deletes an existing alias
+![alias](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/eba616b9-a54d-4774-a963-b828cd042cb3)
+38. su command: switch user command allows you to run a program as a different user
+![addusertun](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/de22c40a-b3d1-4b10-88bb-8f90bc5c22a9)
+![su tunde](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/44feac1b-9c94-470c-9d74-2ca5ad911d54)
+39. htop command: monitors system resources and server processes in real-time image
+![htop](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/9617120b-56de-4ae1-9162-21952af814f8)
+- -C or -no-color: enables the monochrome mode
+![htopc](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/11f70840-1b08-4825-a4d8-eefceb583474)  
+- -help: displays the help message and exit
+![htop h](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/ba9f055d-a079-459d-aa33-e304e427b413)
+40. 
+
 
   
 
