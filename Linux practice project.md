@@ -128,7 +128,10 @@
 ![htopc](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/11f70840-1b08-4825-a4d8-eefceb583474)  
 - -help: displays the help message and exit
 ![htop h](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/ba9f055d-a079-459d-aa33-e304e427b413)
-40. 
+40.  ps command: is called process status command, it produces a snapshot of all the running processes in the system
+![ps](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1968449e-0494-4033-9120-1661dec6e3c8)
+- -T displays all the processes associated with the current shell session
+- ![ps t](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/51c6edd5-25b9-4006-aa99-ad67dd1a4968)
 
 
   
