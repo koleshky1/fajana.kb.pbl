@@ -64,10 +64,10 @@
 - diff -u displays output without any redundant information.
 ![diff u](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/515f5bcf-2e6f-4705-8f03-02c97ccd05b0)
 20. tar command: tar command: archives multiple files into a TAR file
-![tar](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/793f9037-618d-4eef-9dc6-376395ece5f9
+![tar](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/793f9037-618d-4eef-9dc6-376395ece5f9).
 
 
-********
+***
 
 ## PART 2: File Permissions and Ownership
 21. chmod command: modifies a file or directory's read, write and execute permissions.
