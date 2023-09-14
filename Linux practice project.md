@@ -90,12 +90,17 @@
 ![man ls](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/50c62975-402e-4a91-9c04-70dd961b6339)
 31. echo command: displays a line of text or string using the standard output OPTIONS: -n displays output; -e enables interpretation of backlash escapes; \a plays sound alert; \b removes spaces in between the text; \c produces no further output; -E displays the default option and disables the interpretation of backlash escapes.
 ![echo](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/23ea2c02-b04c-49c2-9d81-f08a00fa6ff5)
-32. zip, unzip commands: compresses files into ZIP file.
+32. zip, unzip commands: compresses files into ZIP files.
 - zip file
 ![zip 1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/743a0f32-f0a6-4339-bf21-2d76c363062e)
 ![zip 2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/fe8c3ea2-7887-46f1-9034-2751fe6a28ef)
 ![zip 3](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1dddda20-bbf1-48dd-a2ea-22ffd490421d)
-- unzip 
+- unzip
+- ![unzip](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/3cdc2f45-011d-4761-9023-fe115cada377)
+33. hostname command: reveals the system's hostname.
+- usable complementary flags -a, -i, -d.
+![hostname](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/6791b4b3-817d-4ce6-ab36-a2dfe94e5588)
+
 
 
 
