@@ -100,9 +100,26 @@
 33. hostname command: reveals the system's hostname.
 - usable complementary flags -a, -i, -d.
 ![hostname](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/6791b4b3-817d-4ce6-ab36-a2dfe94e5588)
+34. useradd, userdel commands:
+- useradd: creates new account
+![useradd](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/4641e6cc-e4b4-4a61-9fd2-a7205c4a38ac)
+- deluser: del user account
+![deluser](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8ddf6cc7-93d8-46fb-b069-90b03ceb67b2)
+35. apt-get command: retrieves information and bundles from authenticated sources to manage software.
+- apt-get check: updates the package cache and checks broken dependencies.
+![check](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/3d0c6324-44c0-42fc-b376-83c6ead2f28d)
+- apt-get update: synchronizes the package file from their sources.
+![update](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/93fe3d7a-e313-4bed-8f2f-896b4a4aac66)
+36. nano, vi, jed commands: allows user to edit and manage files via a text editor.
+- nano: using command nano DevOps to read the file named DevOps
+- ![nano1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1b324709-cc20-4fde-be1b-6d40bb9b45f3)
+![nano](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/ebd541e6-954c-4d48-bcc3-681447d416ef)
+- vi: saves, opens, copies, and pastes a file
+![vi 1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f2481ebe-6e87-46ab-a885-e2ccc5cfede9)
+![vi](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/b9752f94-43ff-460a-b170-a84d14ed349d)
+37. alias, unalias commands: alias allows one to create shortcut with the same functionality as a command, file name or text, while unalias deletes an existing alias
 
-
-
+  
 
 
 
