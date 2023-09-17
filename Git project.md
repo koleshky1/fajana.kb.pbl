@@ -51,7 +51,7 @@ STEP: Run "git checkout master"
 **bold**
 3. LISTS:
 
-a.Unordered list
+a. Unordered list
 - Item 1
 - Item 2
 - Item 3
