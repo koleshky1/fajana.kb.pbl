@@ -1,3 +1,4 @@
+# LEMP Project
 # Step 0
 - Spin up a new EC2 instance with the following details:
 -  Project 2
