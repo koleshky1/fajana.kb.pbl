@@ -50,7 +50,9 @@ STEP: Run "git checkout master"
 *italic*  
 **bold**
 3. LISTS:
+   
 a. unOrdered list
+
 - Item 1
 - Item 2
 - Item 3
@@ -63,8 +65,7 @@ b. ordered list
    
 5.To display an image:
 [Laptop image](https://media.istockphoto.com/id/1023428598/photo/3d-illustration-laptop-isolated-on-white-background-laptop-with-empty-space-screen-laptop-at.webp?s=1024x1024&w=is&k=20&c=Plc9oUN68DM5ESlXee7--25d9EbClDQdsreVAOlRpTQ=)
-6. Code: to display code or code snippet:
-console.log('Welcome to darey.io')
+6. Code: to display code or code snippet: console.log('Welcome to darey.io')
 
 [Learn more]([https://www.darey.io](https://learn.microsoft.com/en-us/contribute/content/markdown-reference)https://learn.microsoft.com/en-us/contribute/content/markdown-reference)
 
