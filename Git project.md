@@ -60,8 +60,10 @@ b. ordered list
 3. Third item
    
 4. Links: [Visit darey.io](https://www.darey.io)
+   
 5.To display an image:
 [Laptop image](https://media.istockphoto.com/id/1023428598/photo/3d-illustration-laptop-isolated-on-white-background-laptop-with-empty-space-screen-laptop-at.webp?s=1024x1024&w=is&k=20&c=Plc9oUN68DM5ESlXee7--25d9EbClDQdsreVAOlRpTQ=)
+
 6. Code: to display code or code snippet:
 console.log('Welcome to darey.io')
 
