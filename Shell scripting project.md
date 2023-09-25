@@ -16,9 +16,9 @@
 ![syntax](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/a6772bb0-a830-40d1-85f4-6f3a8bcab7a6)
 - Other variants:
 -  inclusion of hours, minutes, and seconds.
-![variant2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/38377dd8-040d-4d53-810f-7f97d9280e98) 
--  Calendar date:
-![calendar date](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8d30eea5-5085-4f29-ab37-f9a0ccb6c35c)
+![inclusion of date and time](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/cb685900-0b1b-44ad-994d-7e741da5aadb)
+-  Abbreviated form of the afore-mentioned where F represents date and T represents time ( hours, minutes and seconds:
+![abbreviation ](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/fef1b8b9-23dd-49bd-988a-b7ad16ab34fa)
 4. Input and output: bash has a provision for executing input and output.
 -  The output can be displayed on the screen using the echo command.
 -  can redirect input and output; operator > ( pass output to a file) and operator < (pass input from a file)
