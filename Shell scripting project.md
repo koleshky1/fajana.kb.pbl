@@ -18,11 +18,13 @@
 -   the error is use to the absence of $ sign utilization and bash does not actuallly recognize the command but gave the needed output.
   ![error on backtick](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f5d5fd19-4eca-4c79-be45-738bf9c4f227)
 - Syntac use:
-![syntax](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f8c3edd6-3edb-4d92-909b-c4af4737bad7)
+![syntax](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/29c862dd-c4e8-4c01-b484-94729e7a4c64)
+
 - Other variants:
 -  inclusion of hours, minute and seconds.
+- 
 -  Calendar date:
-![calendar date](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/6d931298-f69d-470c-9c9e-40c1b4e1e223)
+
 
 
 
