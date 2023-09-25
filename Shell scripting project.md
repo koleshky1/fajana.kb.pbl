@@ -21,7 +21,9 @@
 ![abbreviation ](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/fef1b8b9-23dd-49bd-988a-b7ad16ab34fa)
 4. Input and output: bash has a provision for executing input and output.
 -  The output can be displayed on the screen using the echo command.
--  can redirect input and output; operator > ( pass output to a file) and operator < (pass input from a file)
+![accept input](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8294597c-c6ee-4d9d-ab61-90b0b725ec8d)
+-  
+-  an redirect input and output; operator > ( pass output to a file) and operator < (pass input from a file)
 -   Grep command | pipes the output of a command as the input of another
 
 
