@@ -8,8 +8,7 @@
 ![negative](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/3c3356dc-76e6-47fb-b369-51e9a9f1b1df)
 ![zero](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/4247efeb-093c-4576-8d38-033f5334f3f1)
 - Iterating through a list using a for loop: This control flow statement keeps increasing the number from 0 to 5. When it equals 5 the script stops the execution of the task.
-![interative](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/43dc3ffa-8381-4beb-9dfb-da423b17a208)
-
+![iterative](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f01ec5cf-c799-44ce-99cf-d928c694f172)
 3. Command Substitution: this allows the user to capture the output of a command and use it within the script. The backtick and the $() syntax can be used for command substitution.
 - backtick use:
 ![backtick](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/42aa4966-1b00-451c-a542-9e6dc113d059)
