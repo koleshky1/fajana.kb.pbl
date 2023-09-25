@@ -17,12 +17,12 @@
 -  error: Git bash does not recognize the command.
 -   the error is use to the absence of $ sign utilization and bash does not actuallly recognize the command but gave the needed output.
   ![error on backtick](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f5d5fd19-4eca-4c79-be45-738bf9c4f227)
-- Syntac use:
-![syntax](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/29c862dd-c4e8-4c01-b484-94729e7a4c64)
+- Syntax use:
+![syntax](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/b445be8c-6857-4813-9d44-e1dc1879b6f6)
 
 - Other variants:
 -  inclusion of hours, minute and seconds.
-- 
+![variant2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/38377dd8-040d-4d53-810f-7f97d9280e98) 
 -  Calendar date:
 
 
