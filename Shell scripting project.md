@@ -21,11 +21,35 @@
 ![abbreviation ](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/fef1b8b9-23dd-49bd-988a-b7ad16ab34fa)
 4. Input and output: bash has a provision for executing input and output.
 -  The output can be displayed on the screen using the echo command.
-![accept input](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8294597c-c6ee-4d9d-ab61-90b0b725ec8d)
--  
+![accept input](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8294597c-c6ee-4d9d-ab61-90b0b725ec8d) 
 -  an redirect input and output; operator > ( pass output to a file) and operator < (pass input from a file)
 -   Grep command | pipes the output of a command as the input of another
+5. Functions allow users to group related commands together; it allows for code to be modularized and more reusable.
+6. First shell-scripting:
+- Creating a directory
+![create a directory](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/75da311d-dac8-43d5-a4b1-6f492c478f08)  
+- creating a file called user-input.sh
+![create file user-input](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/c54d9df0-3ccc-4fb8-8246-35c0685689d0)
+- paste the block code inside the file
+[user-input](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/644b6b03-dad0-48b4-b37b-1d2d406a2b27)
+7. Directory manipulation and Navigation:
+- Command will do the following:
+-   display the current directory
+-   create a new directory "my_directory"
+-   change to the directory
+-   create two files in the directory
+-   move back one level up
+-   remove the directory  "my_directory" and its contents
+-   finally, it will list files in the current directory
+-     create a navigation file
+![navigation file creation](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/50ea54b5-df86-4e74-81b8-ed4f131f49d1)
+-     paste the code block
+![opening file](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/976abd8f-aa74-4a21-883e-06ce1d343c54)
+-     run the command chmod +x file name to make an executable file
+![exectable file](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/95322585-f4ab-4ce8-a8cd-888cf88ee6fa)
+-     Run the script
+![navigation 1 done](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8413160a-aa9f-439b-9ba7-9b569bd0e4ee)
+![navigation 2 done](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/530e74f7-94d9-4cf1-9ae9-98b73eaab82c)
 
-
-
+  
 
