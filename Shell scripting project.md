@@ -67,6 +67,11 @@
 ![block of code](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/de580813-c64b-4461-9276-3c15c111dd2a)
 -       Make file executable by running the chmod command
 ![sorting executable](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/95dee64b-e6a1-47cb-84c9-b6b0ae377f31)
+-       run the script
+![sscript1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/ed8ebfea-6a76-499a-ba63-d2a5775cf8c6)
+![sscript2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/473feeba-59a8-46da-b588-bc031cfca3c9)
+![sscript3](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/84488bc3-00bb-427f-a1b2-ec38a0584692)
+
 
   
 
