@@ -65,6 +65,8 @@
 ![sorting file created](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1479c742-4158-4e2c-9954-94e9183851a9)
 -       open the file and paste the block of code
 ![block of code](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/de580813-c64b-4461-9276-3c15c111dd2a)
+-       Make file executable by running the chmod command
+![sorting executable](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/95dee64b-e6a1-47cb-84c9-b6b0ae377f31)
 
   
 
