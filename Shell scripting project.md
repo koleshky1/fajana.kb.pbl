@@ -92,5 +92,5 @@ The script defines two variables and performs various calculations on the variab
 ![backup done](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/d1855819-1457-42c0-a86d-0fc989752123)
 
 
-# Please need up on the grep pattern did not work for both grep pattern code.
+# Please need help on the grep pattern did not work for both grep pattern code.
 # Also the backup did not create source and backup directories.
