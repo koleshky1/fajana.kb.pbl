@@ -22,8 +22,9 @@
 4. Input and output: bash has a provision for executing input and output.
 -  The output can be displayed on the screen using the echo command.
 ![accept input](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8294597c-c6ee-4d9d-ab61-90b0b725ec8d) 
--  an redirect input and output; operator > ( pass output to a file) and operator < (pass input from a file)
+-  a redirect input and output; operator > ( pass output to a file) and operator < (pass input from a file)
 -   Grep command | pipes the output of a command as the input of another
+# NB Both grep commands did not execute
 5. Functions allow users to group related commands together; it allows for code to be modularized and more reusable.
 ![function](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/e86116dd-41ab-40a0-8d99-ecbf612d25f3)
 6. First shell-scripting:
