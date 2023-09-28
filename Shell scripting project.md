@@ -71,7 +71,12 @@
 ![sscript1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/ed8ebfea-6a76-499a-ba63-d2a5775cf8c6)
 ![sscript2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/473feeba-59a8-46da-b588-bc031cfca3c9)
 ![sscript3](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/84488bc3-00bb-427f-a1b2-ec38a0584692)
-
-
-  
-
+9. Working with numbers and calculations.
+The script defines two variables and performs various calculations on the variables like addition, subtraction, and more.
+-       create a calculations file
+![calc file creation](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/0079f228-cba0-4a90-9918-5e68cda0618b)
+-       Make file executable
+![calc executable](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/63e8cf64-f337-4e8e-8021-f5cefc72601f)
+-       Run the script  
+![calc script 1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/58cc7819-3d99-461e-a767-861c6fa626f5)
+![calc script 2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/2632aab6-0563-4585-a6cd-751124006276)
