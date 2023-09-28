@@ -34,15 +34,15 @@
 - paste the block code inside the file
 [user-input](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/644b6b03-dad0-48b4-b37b-1d2d406a2b27)
 7. Directory manipulation and Navigation:
-- The script will do the following:
--   display the current directory
--   create a new directory "my_directory"
--   change to the directory
--   create two files in the directory
--   move back one level up
--   remove the directory  "my_directory" and its contents
--   finally, it will list files in the current directory
--     create a navigation file
+-    The script will do the following:
+-    display the current directory
+-    create a new directory "my_directory"
+-    change to the directory
+-    create two files in the directory
+-    move back one level up
+-    remove the directory  "my_directory" and its contents
+-    finally, it will list files in the current directory
+-    create a navigation file
 ![navigation file creation](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/50ea54b5-df86-4e74-81b8-ed4f131f49d1)
 -     paste the code block
 ![opening file](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/976abd8f-aa74-4a21-883e-06ce1d343c54)
