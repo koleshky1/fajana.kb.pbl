@@ -90,3 +90,7 @@ The script defines two variables and performs various calculations on the variab
 ![backup executable](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/dbbdb5fb-05b5-4bea-92ff-0f7f37ea5554)
 -       Run script
 ![backup done](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/d1855819-1457-42c0-a86d-0fc989752123)
+
+
+# Please need up on the grep pattern did not work for both grep pattern code.
+# Also the backup did not create source and backup directories.
