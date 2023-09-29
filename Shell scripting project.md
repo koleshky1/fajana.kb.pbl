@@ -20,11 +20,15 @@
 -  Abbreviated form of the afore-mentioned where F represents date and T represents time ( hours, minutes and seconds:
 ![abbreviation ](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/fef1b8b9-23dd-49bd-988a-b7ad16ab34fa)
 4. Input and output: bash has a provision for executing input and output.
--  The output can be displayed on the screen using the echo command.
-![accept input](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8294597c-c6ee-4d9d-ab61-90b0b725ec8d) 
--  a redirect input and output; operator > ( pass output to a file) and operator < (pass input from a file)
+-  accept user input
+![accept input](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8294597c-c6ee-4d9d-ab61-90b0b725ec8d)
+- output displayed on the terminal
+![output to terminal](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1a8888ce-0fd1-498e-8a97-43f676ed8721)
+- output the result of a command into a file
+![out the result of a command into a file](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/c61114af-aca2-4ab0-bf83-d87bff9548ae)
+
 -   Grep command | pipes the output of a command as the input of another
-# NB Both grep commands did not execute
+
 5. Functions allow users to group related commands together; it allows for code to be modularized and more reusable.
 ![function](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/e86116dd-41ab-40a0-8d99-ecbf612d25f3)
 6. First shell-scripting:
