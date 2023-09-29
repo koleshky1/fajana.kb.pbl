@@ -69,11 +69,9 @@ The script defines two variables and performs various calculations on the variab
 10. This script defines source and backup directories, creates a backup directory timestamp, and others.
 -   Create a backup file
 ![backup file creation](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/e557fcd4-6c53-47c0-a39b-1086ab059ecb)
--  Copy the block of code![block of code for backup](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/a1fe39fc-f262-423e-b684-bcf3efaa124d)
-![block of code for backup](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/a1fe39fc-f262-423e-b684-bcf3efaa124d)
 - Make the file executable using the chmod command
 ![backup executable](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/dbbdb5fb-05b5-4bea-92ff-0f7f37ea5554)
 -  Run script
-![view](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/fff1c243-b3c9-476a-8402-8e1146526a0a)
+![backup copied](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f8a8a353-5b45-4c35-84d6-9301ed46bc1d)
 
 
