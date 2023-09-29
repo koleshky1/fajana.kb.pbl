@@ -35,15 +35,6 @@
 - paste the block code inside the file
 [user-input](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/644b6b03-dad0-48b4-b37b-1d2d406a2b27)
 7. Directory manipulation and Navigation:
--    The script will do the following:
--    display the current directory
--    create a new directory "my_directory"
--    change to the directory
--    create two files in the directory
--    move back one level up
--    remove the directory  "my_directory" and its contents
--    finally, it will list files in the current directory
--    create a navigation file
 ![navigation file creation](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/50ea54b5-df86-4e74-81b8-ed4f131f49d1)
 -     paste the code block
 ![opening file](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/976abd8f-aa74-4a21-883e-06ce1d343c54)
@@ -53,16 +44,6 @@
 ![navigation 1 done](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/8413160a-aa9f-439b-9ba7-9b569bd0e4ee)
 ![navigation 2 done](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/530e74f7-94d9-4cf1-9ae9-98b73eaab82c)
 8. File Operations and Sorting:
-- The script will do the following:
--     create three files
--     display the files in their current order
--     sort them alphabetically
--     save the sorted files in sorted_files.txt
--     display the sorted files
--     remove the original files
--     rename the sorted file to sorted_files_sorted_alphabetically.txt
--     finally, it will display the contents of the final sorted file
--       create a sorting file
 ![sorting file created](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1479c742-4158-4e2c-9954-94e9183851a9)
 -       open the file and paste the block of code
 ![block of code](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/de580813-c64b-4461-9276-3c15c111dd2a)
@@ -92,5 +73,3 @@ The script defines two variables and performs various calculations on the variab
 ![backup done](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/d1855819-1457-42c0-a86d-0fc989752123)
 
 
-# Please need help on the grep pattern did not work for both grep pattern code.
-# Also the backup did not create source and backup directories.
