@@ -74,6 +74,6 @@ The script defines two variables and performs various calculations on the variab
 - Make the file executable using the chmod command
 ![backup executable](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/dbbdb5fb-05b5-4bea-92ff-0f7f37ea5554)
 -  Run script
-![backup done](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/d1855819-1457-42c0-a86d-0fc989752123)
+![view](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/fff1c243-b3c9-476a-8402-8e1146526a0a)
 
 
