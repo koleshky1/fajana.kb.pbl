@@ -16,7 +16,7 @@
 ![enable and check status](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/787b3286-6e63-4dd3-8811-d2e9726be0b9)
 5. Connect the MySQL Client through the Visual Studio code.
 -  SSH On git bash terminal in visual studio code to connect to the MySQl Client.
-![ssh1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/a4f4cf63-300b-4da9-9908-4f861a2010de)
+![ssh1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/42f63659-1f09-409a-bc9a-18c5491ca812)
 ![ssh2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/4a9938ba-9b8d-4ddd-bb4c-37c7821ae1a5)
 -  Update client sudo apt.
 ![client sudo update](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/029888de-0868-4878-96a8-5cc9f29cfe9d)
