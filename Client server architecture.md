@@ -12,5 +12,18 @@
 ![server install2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/5f5aa661-1baa-484f-95c5-7ebbf477f6e3)
 - Reconnection to Server after rectifying my Windows System Errors.
 - ![reconnection due to error](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/36376be4-651e-40ee-8174-619b15e97128)
+- Start the MySQl with the enable command and check status.
+![enable and check status](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/42643b71-980c-4dfd-877d-0ad5200b34af)
+5. Connect the MySQL Client through the Visual Studio code.
+-  SSH On git bash terminal in visual studio code to connect to the MySQl Client.
+-  Update client sudo apt.
+![client sudo update](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/029888de-0868-4878-96a8-5cc9f29cfe9d)
+-  Install the MySQL Client software.
+![client install1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/3e487e23-84a4-438b-a4cb-2edce0426758)
+![client install2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1c89ff81-e3f0-4df8-a179-1478cd6d7f8f)
+-Check the status MySQl Client.
+![client status](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/b6a86b4b-80de-42a4-a2d1-37abcbe70ca5)
+
+
 
 
