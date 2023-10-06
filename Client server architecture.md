@@ -21,7 +21,7 @@
 -  Install the MySQL Client software.
 ![client install1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/3e487e23-84a4-438b-a4cb-2edce0426758)
 ![client install2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1c89ff81-e3f0-4df8-a179-1478cd6d7f8f)
--Check the status MySQl Client.
+- Check the status MySQl Client.
 ![client status](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/b6a86b4b-80de-42a4-a2d1-37abcbe70ca5)
 
 
