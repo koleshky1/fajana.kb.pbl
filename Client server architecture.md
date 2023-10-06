@@ -10,5 +10,7 @@
 -  Install the MySQL Server software.
 ![server install1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/66b03911-0ac6-4188-82e6-bf5bd83b2c63)
 ![server install2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/5f5aa661-1baa-484f-95c5-7ebbf477f6e3)
+- Reconnection to Server after rectifying my Windows System Errors.
+- ![reconnection due to error](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/36376be4-651e-40ee-8174-619b15e97128)
 
 
