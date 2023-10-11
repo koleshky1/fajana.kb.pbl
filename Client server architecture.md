@@ -30,7 +30,7 @@
 ![edit server inbound rule](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1f1096fc-9adf-4b55-911b-6988cddb2408)
 7. Configure MySQL Server to allow connection from remote hosts.
 ![pre binding command](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/53cb98ae-ee61-4e61-8a6d-b10601c843eb)
-[previous bind address](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/c497ca12-a23f-4a1c-8ac9-7d1fd038d6fd)
+![previous bind address](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/c497ca12-a23f-4a1c-8ac9-7d1fd038d6fd)
 ![post bind address](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/0a8ef35d-0561-4634-9809-1e918c5c9332)
 8. Create MySQL Server Database
 -  Run MySQL secure installation
