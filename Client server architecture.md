@@ -24,7 +24,38 @@
 ![client install1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/3e487e23-84a4-438b-a4cb-2edce0426758)
 ![client install2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1c89ff81-e3f0-4df8-a179-1478cd6d7f8f)
 - Check the status MySQl Client.
-![client status](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/b6a86b4b-80de-42a4-a2d1-37abcbe70ca5)
+ ![client status](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/2841cf9f-33f8-4104-925c-d04f551c6591)
+6. Edit the Server Inbound rules.
+-  On the MySQL Server security Group open port 3306 MySQL/Aurora and restrict access to only the client IP address.
+![edit server inbound rule](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1f1096fc-9adf-4b55-911b-6988cddb2408)
+7. Configure MySQL Server to allow connection from remote hosts.
+![previous bind address](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/707cb0da-da8f-468a-bfe7-0acd5a1801e6)
+![pre binding command](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/848b4c0f-97c8-4196-928c-863ec6f39351)
+![post bind address](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/ca3b912c-a4f6-4c88-86e3-178051046270)
+8. Create MySQL Server Database
+-  Run MySQl secure installation
+![MySQL secure installation](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/7d874bf7-333f-42d1-b747-b2297777ce25)
+![MySQL secure installation1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/81105b2c-1ff2-46e6-ab5d-53113347576b)
+-  Log in to MySQL.
+![log in to mysql](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/2338ad44-dbee-4fc4-bf93-bf8ae0f472f9)
+-  Create MySQL User.
+![create my SQL user](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/29204d81-bf7f-4074-af4f-c4a0c7ebdb2e)
+-  Crete My SQL database.
+![create mysql database](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/45539a27-006a-46be-a417-91c636b31f12)
+-  Grant access to the database.
+![grant mysql databse privileges](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/37d576a2-2f59-48d4-9ca7-e0aea41abaff)
+-  Flush the database.
+![Flush privliges on mysql](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1bf53c66-415a-46b2-a65a-2a3e3c489a2e)
+-  Exit MySQL.
+![exit mySQl](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/b7ec4aea-215c-4efd-bebf-4eb20d32d8dc)
+9. Connect to the MySQL Server Database from the MySQL Client using the MySQL utility without doing SSH.
+![client to server connection1](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/f7f6a27d-87be-47a0-ab84-aa57d665ffe7)
+![client to server connection2](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/a29278b2-f0db-45c6-a432-350e80fe1746)
+10. Show the database.
+![shown database](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/7f4fd521-21ba-43ac-bda2-b8d45f6f948b)
+
+
+
 
 
 
