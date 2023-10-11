@@ -27,7 +27,7 @@
  ![client status](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/2841cf9f-33f8-4104-925c-d04f551c6591)
 6. Edit the Server Inbound rules.
 -  On the MySQL Server security Group open port 3306 MySQL/Aurora and restrict access to only the client IP address.
-![edit server inbound rule](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/1f1096fc-9adf-4b55-911b-6988cddb2408)
+![edit server inbound rule](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/acd7a018-4e37-4b58-82c8-0da4b6f1624b)
 7. Configure MySQL Server to allow connection from remote hosts.
 ![pre binding command](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/53cb98ae-ee61-4e61-8a6d-b10601c843eb)
 ![previous bind address](https://github.com/koleshky1/fajana.kb.pbl/assets/44333161/c497ca12-a23f-4a1c-8ac9-7d1fd038d6fd)
